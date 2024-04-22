@@ -1,0 +1,5 @@
+nltk
+pandas~=2.2.1
+pygments~=2.17.2
+urlextract
+numpy~=1.26.4
